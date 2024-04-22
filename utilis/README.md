@@ -1,7 +1,7 @@
-# example title
+# Readme generator
 
 ## Description
-example description
+An app to generate a professional readme using commandline
 
 ## Table of Contents
 - [Installation](#installation)
@@ -28,5 +28,5 @@ Write contribution guidelines here.
 Write test instructions here.
 
 ## Questions
-For additional questions, please contact sample@outlook.com.
-GitHub: [sample0705](https://github.com/sample0705)
+For additional questions, please contact sabah.junaid@outlook.com.
+GitHub: [Saba0705](https://github.com/Saba0705)
