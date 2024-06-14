@@ -30,11 +30,7 @@ const questions = [
     name: 'contribution',
     message: 'Enter contribution guidelines:',
   },
-  {
-    type: 'input',
-    name: 'test',
-    message: 'Enter test instructions:',
-  },
+
   {
     type: 'list',
     name: 'license',

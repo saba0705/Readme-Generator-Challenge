@@ -1,14 +1,17 @@
-# Readme generator
+# Readme generator 
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+This project is licensed under the MIT license.
+[MIT License](https://opensource.org/licenses/MIT)
 
 ## Description
-An app to generate a professional readme using commandline
+An app to create a a professional Readme using the command line with inquirer package
 
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
 - [License](#license)
 - [Contributing](#contributing)
-- [Tests](#tests)
 - [Questions](#questions)
 
 ## Installation
@@ -23,9 +26,6 @@ This application is covered under the MIT license.
 
 ## Contributing
 Write contribution guidelines here.
-
-## Tests
-Write test instructions here.
 
 ## Questions
 For additional questions, please contact sabah.junaid@outlook.com.

@@ -41,9 +41,15 @@ function renderLicenseSection(license) {
     }
 }
 
+
+
 // TODO: Create a function to generate markdown for README
 function generateMarkdown(data) {
   return `# ${data.title}
+
+${renderLicenseBadge(data.license)}
+${renderLicenseSection(data.license)}
+${renderLicenseLink(data.license)}
 
 ## Description
 ${data.description}
@@ -53,7 +59,6 @@ ${data.description}
 - [Usage](#usage)
 - [License](#license)
 - [Contributing](#contributing)
-- [Tests](#tests)
 - [Questions](#questions)
 
 ## Installation
@@ -68,9 +73,6 @@ This application is covered under the ${data.license} license.
 
 ## Contributing
 Write contribution guidelines here.
-
-## Tests
-Write test instructions here.
 
 ## Questions
 For additional questions, please contact ${data.email}.

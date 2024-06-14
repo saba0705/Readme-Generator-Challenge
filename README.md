@@ -49,8 +49,12 @@ To use this README generator, follow these steps:
 
 Run the application by executing node index.js.
 Follow the prompts to input information about your project.
-Once you've completed all the prompts, the application will generate a professional README file based on your inputs.
+Once you've completed all the prompts, the application will generate a professional README file based on your inputs. 
 
+## Walkthough video link 
+https://app.screencastify.com/v3/watch/L6HWTWiNXtMz7IQUabHZ 
+
+screenshot : ![alt text](image-1.png)
 
 ## How to Contribute
 
